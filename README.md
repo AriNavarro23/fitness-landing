@@ -1,5 +1,5 @@
-#💪 Website Fitness 
-## - Responsive Gym Website Design Using HTML CSS & JavaScript
+# 💪 Website Fitness 
+### - Responsive Gym Website Design Using HTML CSS & JavaScript
 ## - Contains animations when scrolling.
 ## - Includes a form to calculate body mass index.
 ## - Includes a form to send emails.
