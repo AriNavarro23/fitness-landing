@@ -8,3 +8,5 @@
 
 
 ### 🙌 Thanks for the inspiration, Bedmicode 🙌 
+
+![image](fitness-landing\assets\img\foto-readme.png)
