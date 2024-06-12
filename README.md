@@ -9,4 +9,4 @@
 
 ### 🙌 Thanks for the inspiration, Bedmicode 🙌 
 
-![image](assets\img\foto-readme.png)
+![foto readme](/assets/img/foto-readme.png)
